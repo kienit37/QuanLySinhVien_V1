@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuanLySinhVien.BUS/QuanLySinhVien.BUS.csproj" />
+  <Project Path="QuanLySinhVien.Common/QuanLySinhVien.Common.csproj" Id="b0a5e252-321f-4851-b2fb-a07d3f7e6575" />
+  <Project Path="QuanLySinhVien.DAL/QuanLySinhVien.DAL.csproj" />
+  <Project Path="QuanLySinhVien.GUI/QuanLySinhVien.GUI.csproj" />
+</Solution>

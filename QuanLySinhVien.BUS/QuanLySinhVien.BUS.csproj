@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\QuanLySinhVien.Common\QuanLySinhVien.Common.csproj" />
+		<ProjectReference Include="..\QuanLySinhVien.DAL\QuanLySinhVien.DAL.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Models\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="ClosedXML" Version="0.105.1" />
+	</ItemGroup>
+
+</Project>
